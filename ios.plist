@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://itss-china/H5208AF78_0417141126.ipa</string>
+                        <string>http://www.itss-china.cn/H5208AF78_0417141126.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://xxxxxxxxxxxxxxxxxx.png</string>
+                        <string></string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,19 +27,19 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://xxxxxxxxxxxxxxxxxx.png</string>
+                        <string></string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xxxx.demo</string>
+                    <string></string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>XXXX App download</string>
+                    <string>NCT教育 App download</string>
                 </dict>
             </dict>
         </array>
